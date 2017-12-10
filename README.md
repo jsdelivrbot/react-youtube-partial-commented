@@ -1,7 +1,7 @@
 # React-YouTube-Partial-Commented
 
 Our progress from the evening of 12/08/17, heavily commented for
-your comprehensive and enjoyment.
+your comprehension and enjoyment.
 
 ### Getting Started
 
